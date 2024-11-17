@@ -10,7 +10,7 @@ A modern, responsive personal portfolio showcasing skills, projects, and achieve
 - **Automatic Dark Mode** based on user preferences.
 - Fetches **Codeforces ratings** using the Codeforces API.
 - Smooth **animations and transitions** for a professional look.
-- Accessibility features like smooth navigation, text alternatives for images, and keyboard support.
+- Accessibility features like smooth navigation, text alternatives for images, and more.
 
 ---
 
@@ -19,13 +19,13 @@ A modern, responsive personal portfolio showcasing skills, projects, and achieve
    Introduction, professional background, and goals.
 
 2. **Skills**  
-   Displays technical and soft skills using visually appealing cards.
+   Displays technical skills using visually appealing cards.
 
 3. **Projects**  
-   Highlights key projects with descriptions, technologies used, and links.
+   Highlights key projects with descriptions and technologies used.
 
 4. **Contact**  
-   Social media links and contact form integrated in the footer.
+   Social media links integrated in the footer.
 
 ---
 
